@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 pizza
 pasta
 burger
+=======
+lalaland
+harakiri
+mullholand-drive
+>>>>>>> movies
